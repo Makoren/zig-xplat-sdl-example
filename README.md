@@ -1,8 +1,6 @@
 # zig-xplat-sdl-example
 An example of an application drawing to the canvas with SDL2. The majority of the code is written in Zig. Currently runs on the web through Emscripten, and natively on iOS.
 
-The Zig code has been ported from [this C example](https://www.jamesfmackenzie.com/2019/12/01/webassembly-graphics-with-sdl/).
-
 ## Usage
 ### Web
 The code is set up to support the web build by default.
